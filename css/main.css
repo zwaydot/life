@@ -30,7 +30,7 @@ body {
 nav {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=90);
   opacity: 0.9;
-  background: #FFF;
+  background: #666;
   padding: 0px;
   position: fixed;
   top: 0px;
